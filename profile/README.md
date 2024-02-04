@@ -1,6 +1,8 @@
 # Artve Flina in BUPT
 
-这是一个记录了 fa_555 (a.k.a Artve Flina) 在北京邮电大学计算机科学与技术专业就读间完成的各种作业或项目的 organisation。下面的两个表是简单的索引。企业内的仓库暂不确定 license。
+这是一个记录了 fa_555 (a.k.a Artve Flina) 在北京邮电大学计算机科学与技术专业就读间完成的各种作业或项目的 organisation。所有仓库暂不确定 license。
+
+下面的两个表是简单的索引。
 
 第一个表大多和实际代码有关，已经确定将会公开与否。
 
@@ -17,7 +19,7 @@
 | 大三上 | 编译原理 / 刘 | 算术表达式 LR(1) parser  | *公开 in progress*                                           |
 | 大三上 | 计网实践 / 张 | 动态路由协议 & VLAN 报告 | *公开 in progress*                                           |
 | 大三上 | 算法 / 叶     | *4 次上机作业*           | *公开 in progress*                                           |
-| 大三上 | Python / 皮   | *5 次小作业*             | *公开 in progress*                                           |
+| 大三上 | Python / 皮   | *5 次小作业*             | [Python-assignment](https://github.com/ArtveFlinaInBupt/Python-assignment) |
 | 大三上 | Python / 皮   | 世界人口热力图查询       | [PPPoE](https://github.com/ArtveFlinaInBupt/PPPoE)           |
 
 第二个表中的内容陆续（最迟在毕业后的一段时间内）视情况诈尸公开或直接从表中抹去。其中越靠后的公开概率越大。
