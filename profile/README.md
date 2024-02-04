@@ -33,8 +33,10 @@
 | 大二下 | 计网 / 高     | *6 次小作业*                       |
 | 大二下 | 自动机 / 石   | *9 次小作业*                       |
 | 大三上 | DB / 邵       | *6 次小作业*                       |
-| 大三上 | DB / 邵       | OceanBase 实验超级全家桶 | *公开 in progress*                                           |
+| 大三上 | DB / 邵       | [OceanBase 实验超级全家桶](https://blog.fa555.tech/files/ob_report.pdf)[^1][^2] |
 | 大三上 | OS / 李       | *13 次小作业*                      |
-| 大三上 | OS / 李       | *4 次实验*               | *公开 in progress*                                           |
+| 大三上 | OS / 李       | *4 次实验*               |
 | 大一上 | 计导 / 黄     | *6 次上机作业 / 10 位同学参与维护* |
 
+[^1]: 链接到一个非常大（217 页 / 65MB）的外部 pdf 文件。
+[^2]: 原谅我把它放到 github pages 上……或者你也可以在[raw.githubusercontent.com/...](https://raw.githubusercontent.com/FA555/fa555.github.io/master/files/ob_report.pdf)访问。
