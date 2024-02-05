@@ -14,12 +14,12 @@
 | 大二下 | 计组课设      | 流水线 CPU               | ~~组队项目，所有权完全不在我手里故 private~~                 |
 | 大二下 | 计网课设      | DNS 中继服务器           | [ADRIFT](https://github.com/ArtveFlinaInBupt/ADRIFT)         |
 | 大三上 | 程设实践      | 脚本解释器               | [DszL](https://github.com/ArtveFlinaInBupt/DszL)             |
-| 大三上 | 编译原理 / 刘 | C 语言 lexer             | *虽然写得很烂但是公开 in progress*                           |
+| 大三上 | 编译原理 / 刘 | C 语言 lexer             | [CLAP](https://github.com/ArtveFlinaInBupt/CLAP)             |
 | 大三上 | 编译原理 / 刘 | 算术表达式 LL(1) parser  | *公开 in progress*                                           |
 | 大三上 | 编译原理 / 刘 | 算术表达式 LR(1) parser  | *公开 in progress*                                           |
 | 大三上 | 计网实践 / 张 | 动态路由协议 & VLAN 报告 | *公开 in progress*                                           |
-| 大三上 | 算法 / 叶     | *4 次上机作业*           | *公开 in progress*                                           |
-| 大三上 | Python / 皮   | *5 次小作业*             | [Python-assignment](https://github.com/ArtveFlinaInBupt/Python-assignment) |
+| 大三上 | 算法 / 叶     | *4 次上机作业*           | [Algorithm-labs](https://github.com/ArtveFlinaInBupt/Algorithm-labs) |
+| 大三上 | Python / 皮   | *5 次小作业*             | [Python-assignments](https://github.com/ArtveFlinaInBupt/Python-assignment) |
 | 大三上 | Python / 皮   | 世界人口热力图查询       | [PPPoE](https://github.com/ArtveFlinaInBupt/PPPoE)           |
 
 第二个表中的内容陆续（最迟在毕业后的一段时间内）视情况诈尸公开或直接从表中抹去。其中越靠后的公开概率越大。
@@ -33,10 +33,11 @@
 | 大二下 | 计网 / 高     | *6 次小作业*                       |
 | 大二下 | 自动机 / 石   | *9 次小作业*                       |
 | 大三上 | DB / 邵       | *6 次小作业*                       |
-| 大三上 | DB / 邵       | [OceanBase 实验超级全家桶](https://blog.fa555.tech/files/ob_report.pdf)[^1][^2] |
+| 大三上 | DB / 邵       | [OceanBase 实验超级全家桶](https://blog.fa555.tech/files/ob_report.pdf)[^1] |
 | 大三上 | OS / 李       | *13 次小作业*                      |
 | 大三上 | OS / 李       | *4 次实验*               |
 | 大一上 | 计导 / 黄     | *6 次上机作业 / 10 位同学参与维护* |
 
-[^1]: 链接到一个非常大（217 页 / 65MB）的外部 pdf 文件。
-[^2]: 原谅我把它放到 github pages 上……或者你也可以在[raw.githubusercontent.com/...](https://raw.githubusercontent.com/FA555/fa555.github.io/master/files/ob_report.pdf)访问。
+[^1]: 链接到一个非常大（217 页 / 65MB）的外部 pdf 文件[^2]。
+[^2]: 原谅我把它放到 github pages 上……或者你也可以在 [raw.githubusercontent.com/...](https://raw.githubusercontent.com/FA555/fa555.github.io/master/files/ob_report.pdf) 访问。
+
