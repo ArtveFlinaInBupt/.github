@@ -15,9 +15,9 @@
 | 大二下 | 计网课设      | DNS 中继服务器           | [ADRIFT](https://github.com/ArtveFlinaInBupt/ADRIFT)         |
 | 大三上 | 程设实践      | 脚本解释器               | [DszL](https://github.com/ArtveFlinaInBupt/DszL)             |
 | 大三上 | 编译原理 / 刘 | C 语言 lexer             | [CLAP](https://github.com/ArtveFlinaInBupt/CLAP)             |
-| 大三上 | 编译原理 / 刘 | 算术表达式 LL(1) parser  | *公开 in progress*                                           |
-| 大三上 | 编译原理 / 刘 | 算术表达式 LR(1) parser  | *公开 in progress*                                           |
-| 大三上 | 计网实践 / 张 | 动态路由协议 & VLAN 报告 | *公开 in progress*                                           |
+| 大三上 | 编译原理 / 刘 | 算术表达式 LL(1) parser  | [ExParser](https://github.com/ArtveFlinaInBupt/ExParser)     |
+| 大三上 | 编译原理 / 刘 | 算术表达式 LR(1) parser  | [ExParserR](https://github.com/ArtveFlinaInBupt/ExParserR)   |
+| 大三上 | 计网实践 / 张 | 动态路由协议 & VLAN 报告 | *比较遥远的将来公开*                                         |
 | 大三上 | 算法 / 叶     | *4 次上机作业*           | [Algorithm-labs](https://github.com/ArtveFlinaInBupt/Algorithm-labs) |
 | 大三上 | Python / 皮   | *5 次小作业*             | [Python-assignments](https://github.com/ArtveFlinaInBupt/Python-assignment) |
 | 大三上 | Python / 皮   | 世界人口热力图查询       | [PPPoE](https://github.com/ArtveFlinaInBupt/PPPoE)           |
